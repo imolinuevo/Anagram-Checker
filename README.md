@@ -1,4 +1,4 @@
-# Project Title
+# Anagram Checker
 
 A quick example of how to implement an Anagram Tester usign PHP.
 
